@@ -1,2 +1,2 @@
 # telegram-bot
-A interactive telegram bot using node,js
+:eye: A interactive telegram bot using node,js
